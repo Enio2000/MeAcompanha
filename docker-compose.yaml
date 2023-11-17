@@ -1,0 +1,58 @@
+services:
+  php:
+    build: $PWD/services/php
+    volumes:
+      - $PWD/project/app:/var/www/app:rw
+      - $PWD/project/public:/var/www/html:rw
+    
+    networks:
+      - backend
+
+  mysql:
+    build: $PWD/services/mysql
+    # command: --default-authentication-plugin=mysql_native_password --secure-file-priv=$PWD/project/docs
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    restart: always
+    ports:
+      - 3306:3306
+    networks:
+      - backend
+    volumes:
+      - db_data:/var/lib/mysql:rw
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - 8080:80
+    networks:
+      - backend
+    environment:
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+    restart: always
+    depends_on:
+      - php
+      - mysql
+
+  apache:
+    build: $PWD/services/apache
+    depends_on:
+      - php
+    networks:
+      - backend
+      - frontend
+    ports:
+      - 8090:80
+    
+    volumes:
+      - $PWD/project/public:/var/www/html:rw
+
+
+networks:
+  backend:
+  frontend:
+
+volumes:
+  db_data:

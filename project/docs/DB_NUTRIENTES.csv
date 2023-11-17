@@ -1,0 +1,598 @@
+﻿ID;ALIMENTO;CALORIAS
+1;Arroz integral cozido;124
+2;Arroz integral cru;360
+3;Arroz tipo 1 cozido;128
+4;Arroz tipo 1 cru;358
+5;Arroz tipo 2 cozido;130
+6;Arroz tipo 2 cru;358
+7;Aveia flocos crua;394
+8;Biscoito doce maisena;443
+9;Biscoito doce recheado com chocolate;472
+10;Biscoito doce recheado com morango;471
+11;Biscoito doce wafer recheado de chocolate;502
+12;Biscoito doce wafer recheado de morango;513
+13;Biscoito salgado cream cracker;432
+14;Bolo mistura para;419
+15;Bolo pronto aipim;324
+16;Bolo pronto chocolate;410
+17;Bolo pronto coco;333
+18;Bolo pronto milho;311
+19;Canjica branca crua;358
+20;Canjica com leite integral;112
+21;Cereais milho flocos com sal;370
+22;Cereais milho flocos sem sal;363
+23;Cereais mingau milho infantil;394
+24;Cereais mistura para vitamina trigo cevada e aveia;381
+25;Cereal matinal milho;365
+26;Cereal matinal milho açúcar;377
+27;Creme de arroz pó;386
+28;Creme de milho pó;333
+29;Curau milho verde;78
+30;Curau milho verde mistura para;402
+31;Farinha de arroz enriquecida;363
+32;Farinha de centeio integral;336
+33;Farinha de milho amarela;351
+34;Farinha de rosca;371
+35;Farinha de trigo;360
+36;Farinha láctea de cereais;415
+37;Lasanha massa fresca cozida;164
+38;Lasanha massa fresca crua;220
+39;Macarrão instantâneo;436
+40;Macarrão trigo cru;371
+41;Macarrão trigo cru com ovos;371
+42;Milho amido cru;361
+43;Milho fubá cru;353
+44;Milho verde cru;138
+45;Milho verde enlatado drenado;98
+46;Mingau tradicional pó;373
+47;Pamonha barra para cozimento pré-cozida;171
+48;Pão aveia forma;343
+49;Pão de soja;309
+50;Pão glúten forma;253
+51;Pão milho forma;292
+52;Pão trigo forma integral;253
+53;Pão trigo francês;300
+54;Pão trigo sovado;311
+55;Pastel de carne cru;289
+56;Pastel de carne frito;388
+57;Pastel de queijo cru;308
+58;Pastel de queijo frito;422
+59;Pastel massa crua;310
+60;Pastel massa frita;570
+61;Pipoca com óleo de soja sem sal;448
+62;Polenta pré-cozida;103
+63;Torrada pão francês;377
+64;Abóbora cabotian cozida;48
+65;Abóbora cabotian crua;39
+66;Abóbora menina brasileira crua;14
+67;Abóbora moranga crua;12
+68;Abóbora moranga refogada;29
+69;Abobora pescoço crua;24
+70;Abobrinha italiana cozida;15
+71;Abobrinha italiana crua;19
+72;Abobrinha italiana refogada;24
+73;Abobrinha paulista crua;31
+74;Acelga crua;21
+75;Agrião cru;17
+76;Aipo cru;19
+77;Alface americana crua;9
+78;Alface crespa crua;11
+79;Alface lisa crua;14
+80;Alface roxa crua;13
+81;Alfavaca crua;29
+82;Alho cru;113
+83;Alho-poró cru;32
+84;Almeirão cru;18
+85;Almeirão refogado;65
+86;Batata baroa cozida;80
+87;Batata baroa crua;101
+88;Batata doce cozida;77
+89;Batata doce crua;118
+90;Batata frita tipo chips industrializada;543
+91;Batata inglesa cozida;52
+92;Batata inglesa crua;64
+93;Batata inglesa frita;267
+94;Batata inglesa sauté;68
+95;Berinjela cozida;19
+96;Berinjela crua;20
+97;Beterraba cozida;32
+98;Beterraba crua;49
+99;Biscoito polvilho doce;438
+100;Brócolis cozido;25
+101;Brócolis cru;25
+102;Cará cozido;78
+103;Cará cru;96
+104;Caruru cru;34
+105;Catalonha crua;24
+106;Catalonha refogada;63
+107;Cebola crua;39
+108;Cebolinha crua;20
+109;Cenoura cozida;30
+110;Cenoura crua;34
+111;Chicória crua;14
+112;Chuchu cozido;19
+113;Chuchu cru;17
+114;Coentro folhas desidratadas;309
+115;Couve manteiga crua;27
+116;Couve manteiga refogada ;90
+117;Couve-flor crua;23
+118;Couve-flor cozida;19
+119;Espinafre  Nova Zelândia cru;16
+120;Espinafre Nova Zelândia refogado;67
+121;Farinha de mandioca crua;361
+122;Farinha de mandioca torrada;365
+123;Farinha de puba;360
+124;Fécula de mandioca;331
+125;Feijão broto cru;39
+126;Inhame cru;97
+127;Jiló cru;27
+128;Jurubeba crua;126
+129;Mandioca cozida;125
+130;Mandioca crua;151
+131;Mandioca farofa temperada;406
+132;Mandioca frita;300
+133;Manjericão cru;21
+134;Maxixe cru;14
+135;Mostarda folha crua;18
+136;Nhoque batata cozido;181
+137;Nabo cru;18
+138;Palmito juçara em conserva;23
+139;Palmito pupunha em conserva;29
+140;Pão de queijo assado;363
+141;Pão de queijo cru;295
+142;Pepino cru;10
+143;Pimentão amarelo cru;28
+144;Pimentão verde cru;21
+145;Pimentão vermelho cru;23
+146;Polvilho doce;351
+147;Quiabo cru;30
+148;Rabanete cru;14
+149;Repolho branco cru;17
+150;Repolho roxo cru;31
+151;Repolho roxo refogado;42
+152;Rúcula crua;13
+153;Salsa crua;33
+154;Seleta de legumes enlatada;57
+155;Serralha crua;30
+156;Taioba crua;34
+157;Tomate com semente cru;15
+158;Tomate extrato;61
+159;Tomate molho industrializado;38
+160;Tomate purê;28
+161;Tomate salada;21
+162;Vagem crua;25
+163;Abacate cru;96
+164;Abacaxi cru;48
+165;Abacaxi polpa congelada;31
+166;Abiu cru;62
+167;Açaí polpa com xarope de guaraná e glucose;110
+168;Açaí polpa congelada;58
+169;Acerola crua;33
+170;Acerola polpa congelada;22
+171;Ameixa calda enlatada ;183
+172;Ameixa crua;53
+173;Ameixa em calda enlatada drenada ;177
+174;Atemóia crua;97
+175;Banana da terra crua;128
+176;Banana doce em barra;280
+177;Banana figo crua;105
+178;Banana maçã crua;87
+179;Banana nanica crua;92
+180;Banana ouro crua;112
+181;Banana pacova crua;78
+182;Banana prata crua;98
+183;Cacau cru;74
+184;Cajá-Manga cru;46
+185;Cajá polpa congelada;26
+186;Caju cru;43
+187;Caju polpa congelada;37
+188;Caju suco concentrado envasado;45
+189;Caqui chocolate cru;71
+190;Carambola crua;46
+191;Ciriguela crua;76
+192;Cupuaçu cru;49
+193;Cupuaçu polpa congelada;49
+194;Figo cru;41
+195;Figo enlatado em calda;184
+196;Fruta-pão crua;67
+197;Goiaba branca com casca crua;52
+198;Goiaba doce em pasta;269
+199;Goiaba doce cascão;286
+200;Goiaba vermelha com casca crua;54
+201;Graviola crua;62
+202;Graviola polpa congelada;38
+203;Jabuticaba crua;58
+204;Jaca crua;88
+205;Jambo cru;27
+206;Jamelão cru;41
+207;Kiwi cru;51
+208;Laranja baía crua;45
+209;Laranja baía suco;37
+210;Laranja da terra crua;51
+211;Laranja da terra suco;41
+212;Laranja lima crua;46
+213;Laranja lima suco;39
+214;Laranja pêra crua;37
+215;Laranja pêra suco;33
+216;Laranja valência crua;46
+217;Laranja valência suco;36
+218;Limão cravo suco;14
+219;Limão galego suco;22
+220;Limão tahiti cru;32
+221;Maçã Argentina com casca crua;63
+222;Maçã Fuji com casca crua;56
+223;Macaúba crua;404
+224;Mamão doce em calda drenado;196
+225;Mamão Formosa cru;45
+226;Mamão Papaia cru;40
+227;Mamão verde doce em calda drenado;209
+228;Manga Haden crua;64
+229;Manga Palmer crua;72
+230;Manga polpa congelada;48
+231;Manga Tommy Atkins crua;51
+232;Maracujá cru;68
+233;Maracujá polpa congelada;39
+234;Maracujá suco concentrado envasado;42
+235;Melancia crua;33
+236;Melão cru;29
+237;Mexerica Murcote crua;58
+238;Mexerica Rio crua;37
+239;Morango cru;30
+240;Nêspera crua;43
+241;Pequi cru;205
+242;Pêra Park crua;61
+243;Pêra Williams crua;53
+244;Pêssego Aurora cru;36
+245;Pêssego enlatado em calda;63
+246;Pinha crua;88
+247;Pitanga crua;41
+248;Pitanga polpa congelada;19
+249;Romã crua;56
+250;Tamarindo cru;276
+251;Tangerina Poncã crua;38
+252;Tangerina Poncã suco;36
+253;Tucumã cru;262
+254;Umbu cru;37
+255;Umbu polpa congelada;34
+256;Uva Itália crua;53
+257;Uva Rubi crua;49
+258;Uva suco concentrado envasado;58
+259;Azeite de dendê;884
+260;Azeite de oliva extra virgem;884
+261;Manteiga com sal;726
+262;Manteiga sem sal;758
+263;Margarina com óleo hidrogenado com sal (65% de lipídeos);596
+264;Margarina com óleo hidrogenado sem sal (80% de lipídeos);723
+265;Margarina com óleo interesterificado com sal (65%de lipídeos);594
+266;Margarina com óleo interesterificado sem sal (65% de lipídeos);593
+267;Óleo de babaçu;884
+268;Óleo de canola;884
+269;Óleo de girassol;884
+270;Óleo de milho;884
+271;Óleo de pequi;884
+272;Óleo de soja;884
+273;Abadejo filé congelado assado;112
+274;Abadejo filé congelado.cozido;91
+275;Abadejo filé congelado cru;59
+276;Abadejo filé congelado grelhado;130
+277;Atum conserva em óleo;166
+278;Atum fresco cru;118
+279;Bacalhau salgado cru;136
+280;Bacalhau salgado refogado;140
+281;Cação posta com farinha de trigo frita;208
+282;Cação posta cozida;116
+283;Cação posta crua;83
+284;Camarão Rio Grande grande cozido;90
+285;Camarão Rio Grande grande cru;47
+286;Camarão Sete Barbas sem cabeça com casca frito;231
+287;Caranguejo cozido;83
+288;Corimba cru;128
+289;Corimbatá assado;261
+290;Corimbatá cozido;239
+291;Corvina de água doce crua;101
+292;Corvina do mar crua;94
+293;Corvina grande assada;147
+294;Corvina grande cozida;100
+295;Dourada de água doce fresca;131
+296;Lambari congelado cru;131
+297;Lambari congelado frito;327
+298;Lambari fresco cru;152
+299;Manjuba com farinha de trigo frita;344
+300;Manjuba frita;349
+301;Merluza filé assado;122
+302;Merluza filé cru;89
+303;Merluza filé frito;192
+304;Pescada branca crua;111
+305;Pescada branca frita;223
+306;Pescada filé com farinha de trigo frito;283
+307;Pescada filé cru;107
+308;Pescada filé frito;154
+309;Pescada filé molho escabeche;142
+310;Pescadinha crua;76
+311;Pintado assado;192
+312;Pintado cru;91
+313;Pintado grelhado;152
+314;Porquinho cru;93
+315;Salmão filé com pele fresco  grelhado;229
+316;Salmão sem pele fresco cru;170
+317;Salmão sem pele fresco grelhado;243
+318;Sardinha assada;164
+319;Sardinha conserva em óleo;285
+320;Sardinha frita;257
+321;Sardinha inteira crua;114
+322;Tucunaré filé congelado cru;88
+323;Apresuntado;129
+324;Caldo de carne tablete;241
+325;Caldo de galinha tablete;251
+326;Carne bovina acém moído cozido;212
+327;Carne bovina acém moído cru;137
+328;Carne bovina acém sem gordura cozido;215
+329;Carne bovina acém sem gordura cru;144
+330;Carne bovina almôndegas cruas;189
+331;Carne bovina almôndegas fritas;272
+332;Carne bovina bucho cozido;133
+333;Carne bovina bucho cru;137
+334;Carne bovina capa de contra-filé com gordura crua;217
+335;Carne bovina capa de contra-filé com gordura grelhada;312
+336;Carne bovina capa de contra-filé sem gordura crua;131
+337;Carne bovina capa de contra-filé sem gordura grelhada;239
+338;Carne bovina charque cozido;263
+339;Carne bovina charque cru;249
+340;Carne bovina contra-filé à milanesa;352
+341;Carne bovina contra-filé de costela cru;202
+342;Carne bovina contra-filé de costela grelhado;275
+343;Carne bovina contra-filé com gordura cru;206
+344;Carne bovina contra-filé com gordura grelhado;278
+345;Carne bovina contra-filé sem gordura cru;157
+346;Carne bovina contra-filé sem gordura grelhado;194
+347;Carne bovina costela assada;373
+348;Carne bovina costela crua;358
+349;Carne bovina coxão duro sem gordura cozido;217
+350;Carne bovina coxão duro sem gordura cru;148
+351;Carne bovina coxão mole sem gordura cozido;219
+352;Carne bovina coxão mole sem gordura cru;169
+353;Carne bovina cupim assado;330
+354;Carne bovina cupim cru;221
+355;Carne bovina fígado cru;141
+356;Carne bovina fígado grelhado;225
+357;Carne bovina filé mingnon sem gordura cru;143
+358;Carne bovina filé mingnon sem gordura grelhado;220
+359;Carne bovina flanco sem gordura cozido;196
+360;Carne bovina flanco sem gordura cru;141
+361;Carne bovina fraldinha com gordura cozida;338
+362;Carne bovina fraldinha com gordura crua;221
+363;Carne bovina lagarto cozido;222
+364;Carne bovina lagarto cru;135
+365;Carne bovina língua cozida;315
+366;Carne bovina língua crua;215
+367;Carne bovina maminha crua;153
+368;Carne bovina maminha grelhada;153
+369;Carne bovina miolo de alcatra sem gordura cru;163
+370;Carne bovina miolo de alcatra sem gordura grelhado;241
+371;Carne bovina músculo sem gordura cozido;194
+372;Carne bovina músculo sem gordura cru;142
+373;Carne bovina paleta com gordura crua;159
+374;Carne bovina paleta sem gordura cozida;194
+375;Carne bovina paleta sem gordura crua;141
+376;Carne bovina patinho sem gordura cru;133
+377;Carne bovina patinho sem gordura grelhado;219
+378;Carne bovina peito sem gordura cozido;338
+379;Carne bovina peito sem gordura cru;259
+380;Carne bovina picanha com gordura crua;213
+381;Carne bovina picanha com gordura grelhada;289
+382;Carne bovina picanha sem gordura crua;134
+383;Carne bovina picanha sem gordura grelhada;238
+384;Carne bovina seca cozida;313
+385;Carne bovina seca crua;313
+386;Coxinha de frango frita;283
+387;Croquete de carne cru;246
+388;Croquete de carne frito;347
+389;Empada de frango pré-cozida assada;358
+390;Empada de frango pré-cozida;377
+391;Frango asa com pele crua;213
+392;Frango caipira inteiro com pele cozido;243
+393;Frango caipira inteiro sem pele cozido;196
+394;Frango coração cru;222
+395;Frango coração grelhado;207
+396;Frango coxa com pele assada;215
+397;Frango coxa com pele crua;161
+398;Frango coxa sem pele cozida;167
+399;Frango coxa sem pele crua;120
+400;Frango fígado cru;106
+401;Frango filé à milanesa;221
+402;Frango inteiro com pele cru;226
+403;Frango inteiro sem pele assado;187
+404;Frango inteiro sem pele cozido;170
+405;Frango inteiro sem pele cru;129
+406;Frango peito com pele assado;212
+407;Frango peito com pele cru;149
+408;Frango peito sem pele cozido;163
+409;Frango peito sem pele cru;119
+410;Frango peito sem pele grelhado;159
+411;Frango sobrecoxa com pele assada;260
+412;Frango sobrecoxa com pele crua;255
+413;Frango sobrecoxa sem pele assada;233
+414;Frango sobrecoxa sem pele crua;162
+415;Hambúrguer bovino cru;215
+416;Hambúrguer bovino frito;258
+417;Hambúrguer bovino grelhado;210
+418;Lingüiça frango crua;218
+419;Lingüiça frango frita;245
+420;Lingüiça frango grelhada;244
+421;Lingüiça porco crua;227
+422;Lingüiça porco frita;280
+423;Lingüiça porco grelhada;296
+424;Mortadela;269
+425;Peru congelado assado;163
+426;Peru congelado cru;94
+427;Porco bisteca crua;164
+428;Porco bisteca frita;311
+429;Porco bisteca grelhada;280
+430;Porco costela assada;402
+431;Porco costela crua;256
+432;Porco lombo assado;210
+433;Porco lombo cru;176
+434;Porco orelha salgada crua;258
+435;Porco pernil assado;262
+436;Porco pernil cru;186
+437;Porco rabo salgado cru;377
+438;Presunto com capa de gordura;128
+439;Presunto sem capa de gordura;94
+440;Quibe assado;136
+441;Quibe cru;109
+442;Quibe frito;254
+443;Salame;398
+444;Toucinho cru;593
+445;Toucinho frito;697
+446;Bebida láctea pêssego;55
+447;Creme de Leite;221
+448;Iogurte natural;51
+449;Iogurte natural desnatado;41
+450;Iogurte sabor abacaxi;
+451;Iogurte sabor morango;70
+452;Iogurte sabor pêssego;68
+453;Leite condensado;313
+454;Leite de cabra;66
+455;Leite de vaca achocolatado;83
+456;Leite de vaca desnatado pó;362
+457;Leite de vaca desnatado UHT;
+458;Leite de vaca integral;
+459;Leite de vaca integral pó;497
+460;Leite fermentado;70
+461;Queijo minas frescal;264
+462;Queijo minas meia cura;321
+463;Queijo mozarela;330
+464;Queijo parmesão;453
+465;Queijo pasteurizado;303
+466;Queijo petit suisse morango;121
+467;Queijo prato;360
+468;Queijo requeijão cremoso;257
+469;Queijo ricota;140
+470;Bebida isotônica sabores variados;26
+471;Café infusão 10%;9
+472;Cana aguardente;
+473;Cana caldo de;65
+474;Cerveja pilsen;924
+475;Chá erva-doce infusão 5%;1
+476;Chá mate infusão 5%;3
+477;Chá preto infusão 5%;2
+478;Coco água de;22
+479;Refrigerante tipo água tônica;31
+480;Refrigerante tipo cola;34
+481;Refrigerante tipo guaraná;39
+482;Refrigerante tipo laranja;46
+483;Refrigerante tipo limão;40
+484;Omelete de queijo;268
+485;Ovo de codorna inteiro cru;177
+486;Ovo de galinha clara cozida/10minutos;59
+487;Ovo de galinha gema cozida/10minutos;353
+488;Ovo de galinha inteiro cozido/10minutos;146
+489;Ovo de galinha inteiro cru;143
+490;Ovo de galinha inteiro frito;240
+491;Achocolatado pó;401
+492;Açúcar cristal;387
+493;Açúcar mascavo;369
+494;Açúcar refinado;387
+495;Chocolate ao leite;540
+496;Chocolate ao leite com castanha do Pará;559
+497;Chocolate ao leite dietético;557
+498;Chocolate meio amargo;475
+499;Cocada branca;449
+500;Doce de abóbora cremoso;199
+501;Doce de leite cremoso;306
+502;Geléia mocotó natural;106
+503;Glicose de milho;292
+504;Maria mole;301
+505;Maria mole coco queimado;307
+506;Marmelada;257
+507;Mel de abelha;309
+508;Melado;297
+509;Quindim;411
+510;Rapadura;352
+511;Café pó torrado;419
+512;Capuccino pó;417
+513;Fermento em pó químico;90
+514;Fermento biológico levedura tablete;90
+515;Gelatina sabores variados pó;380
+516;Sal dietético;
+517;Sal grosso;
+518;Shoyu;61
+519;Tempero a base de sal;21
+520;Azeitona preta conserva;194
+521;Azeitona verde conserva;137
+522;Chantilly spray com gordura vegetal;315
+523;Leite de coco;166
+524;Maionese tradicional com ovos;302
+525;Acarajé;289
+526;Arroz carreteiro;154
+527;Baião de dois arroz e feijão-de-corda;136
+528;Barreado;165
+529;Bife à cavalo com contra filé;291
+530;Bolinho de arroz;274
+531;Camarão à baiana;101
+532;Charuto de repolho;78
+533;Cuscuz de milho cozido com sal;113
+534;Cuscuz paulista;142
+535;Cuxá molho;80
+536;Dobradinha;125
+537;Estrogonofe de carne;173
+538;Estrogonofe de frango;157
+539;Feijão tropeiro mineiro;152
+540;Feijoada;117
+541;Frango com açafrão;113
+542;Macarrão molho bolognesa;120
+543;Maniçoba;134
+544;Quibebe;86
+545;Salada de legumes com maionese;96
+546;Salada de legumes cozida no vapor;35
+547;Salpicão de frango;148
+548;Sarapatel;123
+549;Tabule;57
+550;Tacacá;47
+551;Tapioca com manteiga;348
+552;Tucupi com pimenta-de-cheiro;27
+553;Vaca atolada;145
+554;Vatapá;255
+555;Virado à paulista;307
+556;Yakisoba;113
+557;Amendoim grão cru;544
+558;Amendoim torrado salgado;606
+559;Ervilha em vagem;88
+560;Ervilha enlatada drenada;74
+561;Feijão carioca cozido;76
+562;Feijão carioca cru;329
+563;Feijão fradinho cozido;78
+564;Feijão fradinho cru;339
+565;Feijão jalo cozido;93
+566;Feijão jalo cru;328
+567;Feijão preto cozido;77
+568;Feijão preto cru;324
+569;Feijão rajado cozido;85
+570;Feijão rajado cru;326
+571;Feijão rosinha cozido;68
+572;Feijão rosinha cru;337
+573;Feijão roxo cozido;77
+574;Feijão roxo cru;331
+575;Grão-de-bico cru;355
+576;Guandu cru;344
+577;Lentilha cozida;93
+578;Lentilha crua;339
+579;Paçoca amendoim;487
+580;Pé-de-moleque amendoim;503
+581;Soja farinha;404
+582;Soja extrato solúvel natural fluido;39
+583;Soja extrato solúvel pó;459
+584;Soja queijo (tofu);64
+585;Tremoço cru;381
+586;Tremoço em conserva;121
+587;Amêndoa torrada salgada;581
+588;Castanha-de-caju torrada salgada;570
+589;Castanha-do-Brasil crua;643
+590;Coco cru;406
+591;Coco  verde cru;
+592;Farinha de mesocarpo de babaçu crua;329
+593;Gergelim semente;584
+594;Linhaça semente;495
+595;Pinhão cozido;174
+596;Pupunha cozida;219
+597;Noz crua;620
